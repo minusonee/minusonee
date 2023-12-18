@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-  <a><img src="https://github.com/minusonee/minusonee/assets/74992183/905b5df2-6175-4daf-97d4-c2dfc8d4a95e"  width="1200"></a>
+  <a><img src="https://github.com/minusonee/minusonee/assets/74992183/905b5df2-6175-4daf-97d4-c2dfc8d4a95e"  width="300"></a>
 </h1>
 
 <h1 align="center">
