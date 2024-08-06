@@ -7,3 +7,6 @@
 <h1 align="center">
   <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=minusonee&show_icons=true&locale=en&theme=dark&border_radius=15&hide_border=true&title_color=90acd0" alt="minusonee" width="1200" /></a>
 </h1>
+    <a href="https://www.linkedin.com/in/s%D0%B5rban/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn Profile">
+    </a>
