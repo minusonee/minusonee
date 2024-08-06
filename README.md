@@ -4,3 +4,6 @@
 <h1 align="center">
   <a><img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"  width="1200"></a>
 </h1>
+<h1 align="center">
+  <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=minusonee&show_icons=true&locale=en&theme=dracula&border_radius=15&hide_border=true&title_color=90acd0" alt="minusonee" width="1200" /></a>
+</h1>
